@@ -107,6 +107,12 @@ Once fine-tuned, the model can be uploaded to Hugging Face for easy sharing:
     model.push_to_hub("your_hf_username/your_model_name")
     ```
 
+
+my demo is
+
+https://huggingface.co/spaces/RidaDogrul/NER-Demo
+
+
 ## Contributing
 Contributions are welcome! Please fork this repository, create a new branch for your feature, and submit a pull request.
 
